@@ -1,6 +1,7 @@
 var xmlrpc = require('xmlrpc');
 var yaml = require('yamljs');
 var fs = require('fs');
+var md = require('markdown').markdown;
 //var client = xmlrpc.createClient({ host: 'wyz.67ge.com', port: 80, path: '/xmlrpc.php'});
 var username = 'admin', password = 'seasea'
 
@@ -24,7 +25,8 @@ var username = 'admin', password = 'seasea'
 //    }
 //)
 fs.readFile('./md/a.md', {encoding:"utf-8"},function (err, data) {
-    console.log(data.match(/^----\r([.\w\W]*?)----/gm));
-    //var d = yaml.parse(data);
+    var d = data.match(/^-+\r\n([.\w\W]*?)\r\n--+/gm)[0];
+    console.log(yaml.parse(d.replace(/--+/g,'')));
+    console.log(md.toHTML(data.replace(d,'')));
 
 });

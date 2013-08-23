@@ -1,4 +1,4 @@
-----
+------------------
 layout: post
 title: New Post
 permalink: new-page.html
@@ -7,8 +7,13 @@ date: 2013-08-22 15:03:57 +08:00
 tags:
 - aa
 - bb
-----
+-------------------
 
-aaaa
+#中文en
+- aa
+- bb
 
-----
+## fdsfds
+* aa
+* bb
+
