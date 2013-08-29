@@ -6,9 +6,11 @@
     "dependencies": {
         "xmlrpc": "~1.1.0",
         "markdown":"~0.5.0",
-        "yamljs":"~0.1.4"
+        "yamljs":"~0.1.4",
+        "nopt":"~2.1.2"
     },
     "devDependencies": {
+
 
     }
 }
