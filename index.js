@@ -24,7 +24,7 @@ function newPost(){
 if (opts.publish) {
     console.log(opts.publish);
 
-    fs.readFile('./md/a.md', {encoding:"utf-8"},function (err, data) {
+    fs.readFile(opts.publish, {encoding:"utf-8"},function (err, data) {
         var d = data.match(/^-+\r\n([.\w\W]*?)\r\n--+/gm)[0];
         var hand = yaml.parse(d.replace(/--+/g,''));
         var body = md.toHTML(data.replace(d,''));
@@ -43,8 +43,11 @@ if (opts.publish) {
             "wp_author_id": '1',
             "wp_author_display_name": 'wyongzhi'
         }, hand.publish],
-            function (error, value) {
-                console.log("error:", error, "newPostId:", value)
+            function (error, newPostId) {
+                console.log("error:", error, "newPostId:", newPostId);
+                if(newPostId){
+
+                }
             }
         );
 
