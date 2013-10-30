@@ -1,2 +1,4 @@
-var md = require("./lib/md")
-md.readDir("md/1")
+var foo = require("./lib/post");
+var blog = require("./lib/blog");
+var bloginfo = blog.create(0);
+foo.uploadFile(bloginfo);

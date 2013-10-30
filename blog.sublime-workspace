@@ -1,0 +1,497 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lib/post.js",
+			"settings":
+			{
+				"buffer_size": 2936,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 687,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/md.js",
+			"settings":
+			{
+				"buffer_size": 1388,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/SASS Build/SASS - Compressed.sublime-build",
+	"command_palette":
+	{
+		"height": 335.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"package c",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"markd",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"mark ",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"markdonw",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"clo",
+				"File: Close All"
+			]
+		],
+		"width": 402.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/__File/my/blog/md/1/9.md",
+		"/C/__File/my/blog/md/1/8.md",
+		"/C/__File/my/blog/md/1/1.txt",
+		"/C/__File/my/blog/md/1/4.md",
+		"/C/__File/my/blog/md/1/3.md",
+		"/C/__File/my/blog/node_modules/xregexp/xregexp-all.js",
+		"/C/__File/my/blog/package.json",
+		"/C/__File/my/blog/md/1/5.md",
+		"/C/__File/my/blog/md/1/7.md",
+		"/C/__File/my/blog/md/1/6.md",
+		"/C/__File/my/blog/md/1/2.md",
+		"/C/Users/yongzhi.wyz/AppData/Roaming/Sublime Text 2/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+		"/C/__File/my/blog/md/1/8",
+		"/C/__File/my/blog/index.js",
+		"/C/__File/my/blog/lib/blog.js",
+		"/C/__File/my/blog/blog.json",
+		"/C/__File/my/blog/lib/md.js",
+		"/C/__File/my/blog/test.js",
+		"/C/Users/yongzhi.wyz/AppData/Roaming/Sublime Text 2/Packages/Javascript Beautify/Default (Windows).sublime-keymap",
+		"/C/Users/yongzhi.wyz/AppData/Roaming/Sublime Text 2/Packages/JsFormat/JsFormat.sublime-settings",
+		"/C/__File/my/blog/blog.sublime-project",
+		"/C/__File/my/blog/blog.sublime-workspace",
+		"/C/Users/yongzhi.wyz/AppData/Roaming/Sublime Text 2/Packages/User/JsFormat.sublime-settings",
+		"/C/__File/my/blog/lib/post.js",
+		"/C/__File/my/blog/todo.md",
+		"/C/__File/my/blog/todo",
+		"/C/__File/_KLive/xinling.me/a.md",
+		"/C/__File/my/blog/md/a.md",
+		"/C/__File/_KLive/xinling.me/a",
+		"/C/Users/yongzhi.wyz/AppData/Roaming/Sublime Text 2/Packages/SublimeTmpl/Default (Windows).sublime-keymap",
+		"/C/Users/yongzhi.wyz/AppData/Roaming/Sublime Text 2/Packages/SublimeTmpl/Main.sublime-menu",
+		"/C/Users/yongzhi.wyz/AppData/Roaming/Sublime Text 2/Packages/SublimeTmpl/Default.sublime-commands",
+		"/C/Users/yongzhi.wyz/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/__File/my/xinling.me/public/js/gallery.js",
+		"/C/Users/yongzhi.wyz/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/__File/my/xinling.me/themes/my/layout/_partial/header.ejs",
+		"/C/__File/my/xinling.me/themes/my/layout/_partial/head.ejs",
+		"/C/__File/my/xinling.me/themes/my/layout/index.ejs",
+		"/C/__File/my/xinling.me/themes/my/layout/_partial/pagination.ejs",
+		"/C/__File/my/xinling.me/themes/my/layout/layout.ejs",
+		"/C/__File/_Ali/tbad/mosaic/views/index.vm",
+		"/C/Users/yongzhi.wyz/AppData/Roaming/npm/node_modules/hexo/lib/plugins/console/generate.js",
+		"/C/__File/my/xinling.me/themes/my/layout/_partial/article.ejs",
+		"/C/__File/my/xinling.me/themes/light/layout/_partial/head.ejs",
+		"/C/__File/my/xinling.me/themes/my/layout/tag.ejs",
+		"/C/__File/my/xinling.me/themes/my/layout/post.ejs",
+		"/C/__File/my/xinling.me/themes/my/layout/page.ejs",
+		"/C/__File/_Ali/tbad/etao-alimama/tanxssp/src/tanxssp.js",
+		"/C/__File/_Ali/tbad/etao-alimama/tanxssp/Gruntfile.js",
+		"/C/__File/my/xinling.me/README.md",
+		"/C/__File/_Ali/tbad/qin/Gruntfile.js",
+		"/C/__File/_Ali/tbad/qin/src/demo.php",
+		"/C/__File/my/xinling/source/_posts/1.md",
+		"/C/__File/_Ali/tbad/qin/README.md",
+		"/C/__File/my/xinling/themes/my/source/css/style.less",
+		"/C/Users/yongzhi.wyz/Desktop/a.md",
+		"/C/Users/yongzhi.wyz/Desktop/Untitled.js",
+		"/C/__File/_Ali/tbad/bp/mbr_luna_subway_20130705_gaiban2_5/subway-webapp2/src/main/webapp/src/app/tools/views/insight/shares/tabs-region.js",
+		"/C/__File/_Ali/tbad/bp/trunk/subway-webapp2/src/main/webapp/src/app/tools/views/insight/shares/tabs-region.js",
+		"/C/__File/_Ali/tbad/shopping-ads/src/css/a.css",
+		"/C/__File/_Ali/tbad/shopping-ads/src/css/a.scss",
+		"/C/__File/_Ali/tbad/shopping-ads/src/css/b.css",
+		"/C/__File/_Ali/tbcdn/s/fdc/sample.js",
+		"/C/__File/my/soft/aboutus.asp",
+		"/C/__File/my/soft/news.asp",
+		"/C/__File/my/soft/top.asp",
+		"/C/__File/my/soft/product.asp",
+		"/C/__File/my/wordpress/wp-login.php",
+		"/C/__File/my/wordpress/wp-includes/rss.php",
+		"/C/__File/my/wordpress/wp-includes/wlwmanifest.xml",
+		"/C/__File/my/wordpress/wp-mail.php",
+		"/C/__File/my/wordpress/wp-includes/wp-db.php",
+		"/C/__File/_Ali/etao/compare-detail/templates/ruyitao/index.php",
+		"/C/Users/yongzhi.wyz/Desktop/test.asp",
+		"/C/__File/_Ali/tbcdn/s/fdc/spmact.js",
+		"/C/__File/_Ali/tbcdn/s/fdc/spm-for-ad.js",
+		"/X/周报/test.md",
+		"/C/__File/_Ali/etao/compare-detail/src/cd/md5.js",
+		"/C/__File/_Ali/etao/compare-detail/src/cd/a.eheader.css",
+		"/C/__File/_Ali/etao/compare-detail/src/cd/loadMoreItem.js",
+		"/C/__File/_Ali/etao/compare-detail/src/cd/a.layout.css",
+		"/C/__File/_Ali/etao/compare-detail/src/cd/data-stat.js",
+		"/C/Users/yongzhi.wyz/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/__File/_Ali/etao/compare-detail/src/cd/mod-charts.js",
+		"/C/Users/yongzhi.wyz/AppData/Roaming/Sublime Text 2/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/X/周报/2013年3月22日.md",
+		"/X/周报/2013年3月15日.md",
+		"/C/Users/yongzhi.wyz/AppData/Roaming/Sublime Text 2/Packages/Markdown Preview/sample.md",
+		"/C/__File/_Ali/test/tbhome.htm",
+		"/C/Users/yongzhi.wyz/Desktop/fdc.js",
+		"/C/__File/_Ali/etao/compare-detail/components/product-price-trends/index.js",
+		"/C/__File/_Ali/etao/compare-detail/index.php",
+		"/C/Users/yongzhi.wyz/Desktop/a.html",
+		"/C/Users/yongzhi.wyz/Desktop/getPageViewID.js",
+		"/C/Users/yongzhi.wyz/AppData/Roaming/Sublime Text 2/Packages/DocBlockr/Base File.sublime-settings",
+		"/C/Users/yongzhi.wyz/Desktop/expansion_embed.js",
+		"/C/Users/yongzhi.wyz/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/C/Users/yongzhi.wyz/Desktop/osd-min.js",
+		"/C/Users/yongzhi.wyz/Desktop/show_ads_impl.js",
+		"/C/Users/yongzhi.wyz/AppData/Roaming/Sublime Text 2/Packages/JsFormat/Default (Windows).sublime-keymap",
+		"/C/Users/yongzhi.wyz/Desktop/test.js",
+		"/C/__File/_Ali/ad/alimama/tanxssp/PARAMS.md",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/yongzhi.wyz/Desktop/test.py",
+		"/C/Users/yongzhi.wyz/AppData/Roaming/Sublime Text 2/Packages/User/Nodejs.sublime-build",
+		"/C/Users/yongzhi.wyz/AppData/Roaming/Sublime Text 2/Packages/User/openhost.py",
+		"/C/Users/yongzhi.wyz/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Program Files/Sublime Text 2/PackageSetup.py",
+		"/C/__File/_Ali/Engine/ADE/ACMP/trunk/spmact/spm-for-ad.js",
+		"/C/__File/_Ali/Engine/ADE/ACMP/trunk/spmact/spmact.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"theme",
+			"them",
+			"font-family",
+			"J_map",
+			"manage",
+			"DB_NAME",
+			"();\n",
+			"DB_NAME",
+			"wp-db.php",
+			"ctrl+p",
+			"ctrl+t",
+			"ctrl+d",
+			"一淘社区：海淘，淘吧",
+			"支付宝专区正式上线；",
+			"计划进行KISSY1",
+			"一淘产品页",
+			"实习生齐修即将参加百淘百技，之后回学校做论文直到毕业",
+			") ",
+			"theme",
+			"translate_tabs_to_spaces",
+			"function",
+			"Array",
+			"function",
+			"indexOf",
+			"instanceof",
+			"a",
+			"tbcdn",
+			"sublime_plugin",
+			"ExampleCommand",
+			"sublime_plugin",
+			"):\n",
+			"\n",
+			"ctrl+d",
+			"shift+delete",
+			"!\")\n",
+			"World",
+			"本周重点工作内容和项目（以优先级顺序排列）"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lib/post.js",
+					"settings":
+					{
+						"buffer_size": 2936,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 57.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.js",
+					"settings":
+					{
+						"buffer_size": 687,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								684,
+								684
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lib/md.js",
+					"settings":
+					{
+						"buffer_size": 1388,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128,
+								128
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"demo",
+				"src/demo.php"
+			],
+			[
+				"tab-r",
+				"app/tools/views/insight/shares/tabs-region.js"
+			],
+			[
+				"wp-db",
+				"wp-includes/wp-db.php"
+			],
+			[
+				"product-price",
+				"compare-detail/components/product-price-trends/index.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true
+}
