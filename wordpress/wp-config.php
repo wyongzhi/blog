@@ -42,14 +42,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'Ov7G34egN#bh:o5~ujqZXC|c8w/alc]zlV+L8t4haI,%6zPzqcVRtI}5>;S:nF%#');
-define('SECURE_AUTH_KEY',  'y@WT0}3fg6e{n5zk_CPQg~}{+$avxr$b{0b.dN|{DXb;$B,9r3J2wD1!@%M1w-13');
-define('LOGGED_IN_KEY',    '8#GQA*aVqA2< _c}Nun!Jy4Jk~p>2bo9uP~Y&TNww!3Epe]P3D+,l*eEr>hw5zPF');
-define('NONCE_KEY',        'PqA.{_&%Rbwi]^cSiKwc#oP=}jR{Rroc)8FbZ8OMykL<Eb8G/.iqbQ2zQ~X#HeN$');
-define('AUTH_SALT',        'xvw6YU?/#_pU`>n]SOo.&NJ2y%b,gx$Bw#lA/=KGqZoDbNVKwAqGgZy*7b]^mGm;');
-define('SECURE_AUTH_SALT', '!|4js^Su:zSV+r9-bQB(H6~xsBGD<m1.K1ED_U73;6H)3?JnXR+ondL^/;Hg=x}s');
-define('LOGGED_IN_SALT',   '+<|yOAWK5j?ecjnL4Z}wIk)y 0@{qU^O<_X[o9p*C&-!P9Z<U~|r9^<_xarR!.{k');
-define('NONCE_SALT',       '2{VB,ZT@kd_.khLAFRj[~IU-~xdQ-GPe7E|K{3sgd[=|ST29%rVg](ILIEwib$xT');
+define('AUTH_KEY',         'VA(:$J}S|Dat|2RVZwR4Cj^gkx3Pm{)m?z6bKp|P=3PCT[erb|gAMB-AQuBU<VXO');
+define('SECURE_AUTH_KEY',  '.x MyW!]t6D6X:`J+9%SZb-W7O/sJAQ(MOdY$H>hX(gCH`t[5~@.Kgf@PNk`0%-3');
+define('LOGGED_IN_KEY',    'mk_SPSeh1 fKbs-NpyO|8YQs7H78s+D)=G6}tn&`c>^QL2a}W|FOCNNuH;dE|N>M');
+define('NONCE_KEY',        '|-id9nWW2qIx]9c2/ti%GLF=nu9f}A|B4YyR9-Ub6VPK)8a7.d@3Xquu+:YP5z&f');
+define('AUTH_SALT',        '**?!+u[V;_FS^F8di)|EfCBmysT?a`q:FNA2z@EA^w+3GoS:*{8@i`)Qh$6x%J/.');
+define('SECURE_AUTH_SALT', '/zsb6<-?nd=&M5IQ(0)]D DuNed>|wTfKJcP>Al^yLk=mEfAn]%ef.eg2@r-KL%J');
+define('LOGGED_IN_SALT',   'NZTU}U3n$33gKqt^E$F5c e(L(n_;Qt)2D[.hT@~^Un.-OTA/CZ``[e-Imv&EX,,');
+define('NONCE_SALT',       's-~wtq2)7+`:+HLK4aB<~Tn]K: Lj5tc?Ee-3FHS)Y0CP/Yw(_KAd&HT;-cM+Z!$');
 
 /**#@-*/
 
@@ -59,7 +59,7 @@ define('NONCE_SALT',       '2{VB,ZT@kd_.khLAFRj[~IU-~xdQ-GPe7E|K{3sgd[=|ST29%rVg
  * 如果您有在同一数据库内安装多个WordPress的需求，请为每个WordPress设置
  * 不同的数据表前缀。前缀名只能为数字、字母加下划线。
  */
-$table_prefix  = 'v56_';
+$table_prefix  = 'wp_';
 
 /**
  * WordPress语言设置，中文版本默认为中文。
@@ -87,3 +87,4 @@ if ( !defined('ABSPATH') )
 
 /** 设置WordPress变量和包含文件。 */
 require_once(ABSPATH . 'wp-settings.php');
+
